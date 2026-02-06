@@ -1,5 +1,0 @@
-Public Key - uHCnxEi8cBnRN5F0S
-service_5qv1r2s template_v5v73fr
-reCAPTCHA 
-site: 6Lfgml8sAAAAAGG0DyEBU1t0OQlbrHRlI-RuzUhT
-secret: 6Lfgml8sAAAAAGLPd0xvf1mMwrEdvFYmMdYTE1v_
