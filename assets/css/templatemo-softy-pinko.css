@@ -152,6 +152,7 @@ body {
   letter-spacing: 0.25px;
   margin-bottom: 30px;
   position: relative;
+  text-align: center;
 }
 
 .center-heading {
@@ -925,6 +926,12 @@ parallax & home seperator
   transition: all 0.3s ease 0s;
   text-align: center;
   height: -webkit-fill-available;
+}
+
+@media (max-width: 768px) {
+	.mini .mini-content .mini-box {
+		height: 250px;
+	}
 }
 
 .mini .mini-content .mini-box:hover {
