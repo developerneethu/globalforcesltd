@@ -934,6 +934,12 @@ parallax & home seperator
 	}
 }
 
+@media (max-width: 768px) {
+	.mini .mini-content .boxheight {
+		height: 130px !important;
+	}
+}
+
 .mini .mini-content .mini-box:hover {
   margin-top: -10px;
 }
